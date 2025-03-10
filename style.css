@@ -156,6 +156,11 @@
   .bottom-border {
     border-bottom: 1px solid var(--text2);
   }
+
+  .size-40 svg {
+    width: 32px;
+    height: 32px;
+  }
   
   /* HEADER */
   
@@ -169,6 +174,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     text-align: center;
     gap: 20px 25px;
   }
