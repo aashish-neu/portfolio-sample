@@ -49,7 +49,7 @@
     color: var(--text1);
     font-size: var(--fs-18);
     line-height: 1.56;
-    padding-bottom: 25rem;
+    /* padding-bottom: 25rem; */
   }
   
   .bg-less-dark {
