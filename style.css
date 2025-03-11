@@ -161,6 +161,12 @@
     width: 32px;
     height: 32px;
   }
+
+  .border-top {
+    border: unset;
+    border-top: 1px solid var(--text2) !important;
+    margin-top: 72px;
+  }
   
   /* HEADER */
   
