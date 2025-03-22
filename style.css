@@ -167,6 +167,10 @@
     border-top: 1px solid var(--text2) !important;
     margin-top: 72px;
   }
+
+  .ml-16 {
+    margin-left: 16px;
+  }
   
   /* HEADER */
   
@@ -240,11 +244,13 @@
   
   .hero__image {
     position: absolute;
-    top: 0;
+    /* top: 0; */
+    top: 6%;
     left: 50%;
     translate: -50%;
-    width: 174px;
-    height: auto;
+    /* width: 174px; */
+    width: 206px;
+    /* height: auto; */
   }
   
   .hero__rings {
