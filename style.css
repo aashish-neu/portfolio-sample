@@ -647,6 +647,15 @@
       margin-block-end: 0;
     }
   }
+
+  .education {
+    padding-bottom: 140px;
+  }
+
+  .education__level {
+    display: block;
+    margin-bottom: 40px;
+  }
   
   /* CONTACT */
   
